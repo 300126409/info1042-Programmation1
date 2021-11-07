@@ -1,0 +1,5 @@
+Pour bien suivre ce cours de Programmation 1, vous avez besoin d'un ordinateur Windows (avec 8GB de RAM minimum) et d'un accès à Internet.
+
+Au cas où le cours sera dispensé en mode virtuel, il est souhaitable que votre ordinateur ait une Webcam.
+
+Nous aurons à installer Anaconda pour les exercices et pratiques.
